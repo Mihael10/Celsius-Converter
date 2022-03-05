@@ -72,7 +72,6 @@ public class JFrameConvertor extends javax.swing.JFrame {
         lblTitle.setBackground(new java.awt.Color(255, 255, 255));
         lblTitle.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         lblTitle.setForeground(new java.awt.Color(255, 255, 255));
-        lblTitle.setIcon(new javax.swing.ImageIcon("C:\\Users\\Mihael\\Desktop\\thermometer2.png")); // NOI18N
         lblTitle.setText("Temperature Converter");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
